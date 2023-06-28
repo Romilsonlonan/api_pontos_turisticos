@@ -735,7 +735,7 @@
         "kind": 6,
         "importPath": "comentarios.api.serializers",
         "description": "comentarios.api.serializers",
-        "peekOfCode": "class ComentarioSerializer(ModelSerializer):\n    class Meta:\n        model = Comentario\n        fields = ('usuario', 'comentario', 'data', 'aprovado')",
+        "peekOfCode": "class ComentarioSerializer(ModelSerializer):\n    class Meta:\n        model = Comentario\n        fields = ('id', 'usuario', 'comentario', 'data', 'aprovado')",
         "detail": "comentarios.api.serializers",
         "documentation": {}
     },
