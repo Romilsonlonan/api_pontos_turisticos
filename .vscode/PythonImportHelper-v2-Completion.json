@@ -1,0 +1,1102 @@
+[
+    {
+        "label": "ModelSerializer",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ModelSerializer",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ModelSerializer",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ModelSerializer",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "Atracao",
+        "importPath": "atracoes.models",
+        "description": "atracoes.models",
+        "isExtraImport": true,
+        "detail": "atracoes.models",
+        "documentation": {}
+    },
+    {
+        "label": "Atracao",
+        "importPath": "atracoes.models",
+        "description": "atracoes.models",
+        "isExtraImport": true,
+        "detail": "atracoes.models",
+        "documentation": {}
+    },
+    {
+        "label": "Atracao",
+        "importPath": "atracoes.models",
+        "description": "atracoes.models",
+        "isExtraImport": true,
+        "detail": "atracoes.models",
+        "documentation": {}
+    },
+    {
+        "label": "ModelViewSet",
+        "importPath": "rest_framework.viewsets",
+        "description": "rest_framework.viewsets",
+        "isExtraImport": true,
+        "detail": "rest_framework.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "ModelViewSet",
+        "importPath": "rest_framework.viewsets",
+        "description": "rest_framework.viewsets",
+        "isExtraImport": true,
+        "detail": "rest_framework.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "ModelViewSet",
+        "importPath": "rest_framework.viewsets",
+        "description": "rest_framework.viewsets",
+        "isExtraImport": true,
+        "detail": "rest_framework.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "ModelViewSet",
+        "importPath": "rest_framework.viewsets",
+        "description": "rest_framework.viewsets",
+        "isExtraImport": true,
+        "detail": "rest_framework.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "Comentario",
+        "importPath": "comentarios.models",
+        "description": "comentarios.models",
+        "isExtraImport": true,
+        "detail": "comentarios.models",
+        "documentation": {}
+    },
+    {
+        "label": "Comentario",
+        "importPath": "comentarios.models",
+        "description": "comentarios.models",
+        "isExtraImport": true,
+        "detail": "comentarios.models",
+        "documentation": {}
+    },
+    {
+        "label": "Comentario",
+        "importPath": "comentarios.models",
+        "description": "comentarios.models",
+        "isExtraImport": true,
+        "detail": "comentarios.models",
+        "documentation": {}
+    },
+    {
+        "label": "PontoTuristico",
+        "importPath": "core.models",
+        "description": "core.models",
+        "isExtraImport": true,
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "PontoTuristico",
+        "importPath": "core.models",
+        "description": "core.models",
+        "isExtraImport": true,
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "Avaliacao",
+        "importPath": "avaliacoes.models",
+        "description": "avaliacoes.models",
+        "isExtraImport": true,
+        "detail": "avaliacoes.models",
+        "documentation": {}
+    },
+    {
+        "label": "Endereco",
+        "importPath": "enderecos.models",
+        "description": "enderecos.models",
+        "isExtraImport": true,
+        "detail": "enderecos.models",
+        "documentation": {}
+    },
+    {
+        "label": "Endereco",
+        "importPath": "enderecos.models",
+        "description": "enderecos.models",
+        "isExtraImport": true,
+        "detail": "enderecos.models",
+        "documentation": {}
+    },
+    {
+        "label": "Endereco",
+        "importPath": "enderecos.models",
+        "description": "enderecos.models",
+        "isExtraImport": true,
+        "detail": "enderecos.models",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.conf.urls",
+        "description": "django.conf.urls",
+        "isExtraImport": true,
+        "detail": "django.conf.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "routers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "PontoTuristicoViewSet",
+        "importPath": "core.api.viewsets",
+        "description": "core.api.viewsets",
+        "isExtraImport": true,
+        "detail": "core.api.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "AtracaoViewSet",
+        "importPath": "atracoes.api.viewsets",
+        "description": "atracoes.api.viewsets",
+        "isExtraImport": true,
+        "detail": "atracoes.api.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "EnderecoViewSet",
+        "importPath": "enderecos.api.viewsets",
+        "description": "enderecos.api.viewsets",
+        "isExtraImport": true,
+        "detail": "enderecos.api.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "ComentarioViewSet",
+        "importPath": "comentarios.api.viewsets",
+        "description": "comentarios.api.viewsets",
+        "isExtraImport": true,
+        "detail": "comentarios.api.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "AtracaoSerializer",
+        "kind": 6,
+        "importPath": "atracoes.api.serializers",
+        "description": "atracoes.api.serializers",
+        "peekOfCode": "class AtracaoSerializer(ModelSerializer):\n    class Meta:\n        model = Atracao\n        fields = ('id', 'nome', 'descricao', 'horario_func', 'idade_minima')",
+        "detail": "atracoes.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "AtracaoViewSet",
+        "kind": 6,
+        "importPath": "atracoes.api.viewsets",
+        "description": "atracoes.api.viewsets",
+        "peekOfCode": "class AtracaoViewSet(ModelViewSet):\n    queryset = Atracao.objects.all()\n    serializer_class = AtracaoSerializer",
+        "detail": "atracoes.api.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "atracoes.migrations.0001_initial",
+        "description": "atracoes.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Atracao',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('nome', models.CharField(max_length=150)),",
+        "detail": "atracoes.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "AtracoesConfig",
+        "kind": 6,
+        "importPath": "atracoes.apps",
+        "description": "atracoes.apps",
+        "peekOfCode": "class AtracoesConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'atracoes'",
+        "detail": "atracoes.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Atracao",
+        "kind": 6,
+        "importPath": "atracoes.models",
+        "description": "atracoes.models",
+        "peekOfCode": "class Atracao(models.Model):\n    nome = models.CharField(max_length=150)\n    descricao = models.TextField()\n    horario_func = models.TextField()\n    idade_minima = models.IntegerField()\n    def __str__(self):\n        return self.nome",
+        "detail": "atracoes.models",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "avaliacoes.migrations.0001_initial",
+        "description": "avaliacoes.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Avaliacao',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "avaliacoes.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "AvaliacoesConfig",
+        "kind": 6,
+        "importPath": "avaliacoes.apps",
+        "description": "avaliacoes.apps",
+        "peekOfCode": "class AvaliacoesConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'avaliacoes'",
+        "detail": "avaliacoes.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Avaliacao",
+        "kind": 6,
+        "importPath": "avaliacoes.models",
+        "description": "avaliacoes.models",
+        "peekOfCode": "class Avaliacao(models.Model):\n    user = models.ForeignKey(User, on_delete=models.CASCADE)\n    comentario = models.TextField(null=True, blank=True)\n    nota = models.DecimalField(max_digits=3, decimal_places=2)\n    data = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.user.username",
+        "detail": "avaliacoes.models",
+        "documentation": {}
+    },
+    {
+        "label": "ComentarioSerializer",
+        "kind": 6,
+        "importPath": "comentarios.api.serializers",
+        "description": "comentarios.api.serializers",
+        "peekOfCode": "class ComentarioSerializer(ModelSerializer):\n    class Meta:\n        model = Comentario\n        fields = ('usuario', 'comentario', 'data', 'aprovado')",
+        "detail": "comentarios.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ComentarioViewSet",
+        "kind": 6,
+        "importPath": "comentarios.api.viewsets",
+        "description": "comentarios.api.viewsets",
+        "peekOfCode": "class ComentarioViewSet(ModelViewSet):\n    queryset = Comentario.objects.all()\n    serializer_class = ComentarioSerializer",
+        "detail": "comentarios.api.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "comentarios.migrations.0001_initial",
+        "description": "comentarios.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Comentario',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "comentarios.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "ComentariosConfig",
+        "kind": 6,
+        "importPath": "comentarios.apps",
+        "description": "comentarios.apps",
+        "peekOfCode": "class ComentariosConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'comentarios'",
+        "detail": "comentarios.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Comentario",
+        "kind": 6,
+        "importPath": "comentarios.models",
+        "description": "comentarios.models",
+        "peekOfCode": "class Comentario(models.Model):\n    usuario = models.ForeignKey(User, on_delete=models.CASCADE)\n    comentario = models.TextField()\n    data = models.DateTimeField(auto_now_add=True)\n    aprovado = models.BooleanField(default=True)\n    def __str__(self):\n        return self.usuario.username",
+        "detail": "comentarios.models",
+        "documentation": {}
+    },
+    {
+        "label": "PontoTuristicoSerializer",
+        "kind": 6,
+        "importPath": "core.api.serializers",
+        "description": "core.api.serializers",
+        "peekOfCode": "class PontoTuristicoSerializer(ModelSerializer):\n    # Dentro da classe PontoTuristicoSerializer, há uma classe interna chamada Meta que \n    # define metadados para o serializer.\n    class Meta:\n        # O atributo model dentro da classe Meta especifica o modelo associado ao serializer, ou seja, \n        # a classe PontoTuristico é o modelo que será serializado por esse serializer\n        model = PontoTuristico\n        # O atributo fields dentro da classe Meta especifica os campos do modelo que serão incluídos na \n        # serialização. Nesse caso, apenas os campos 'id', 'nome' e 'descricao' serão incluídos.\n        fields = ('id', 'nome', 'descricao')",
+        "detail": "core.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "PontoTuristicoViewSet",
+        "kind": 6,
+        "importPath": "core.api.viewsets",
+        "description": "core.api.viewsets",
+        "peekOfCode": "class PontoTuristicoViewSet(ModelViewSet):\n    #atribuindo a variável queryset todos os objetos da classe PontoTuristico presentes no banco de dados.\n    queryset = PontoTuristico.objects.all()\n    #Um serializer é uma classe no Django Rest Framework que define como os objetos devem ser convertidos \n    # em tipos de dados Python nativos, como dicionários, listas ou JSON, e vice-versa. \n    serializer_class = PontoTuristicoSerializer",
+        "detail": "core.api.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.migrations.0001_initial",
+        "description": "core.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='PontoTuristico',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('nome', models.CharField(max_length=150)),",
+        "detail": "core.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.migrations.0002_alter_pontoturistico_aprovado",
+        "description": "core.migrations.0002_alter_pontoturistico_aprovado",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('core', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='pontoturistico',\n            name='aprovado',\n            field=models.BooleanField(default=False),\n        ),",
+        "detail": "core.migrations.0002_alter_pontoturistico_aprovado",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.migrations.0003_pontoturistico_atracoes",
+        "description": "core.migrations.0003_pontoturistico_atracoes",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('atracoes', '0001_initial'),\n        ('core', '0002_alter_pontoturistico_aprovado'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='pontoturistico',\n            name='atracoes',\n            field=models.ManyToManyField(to='atracoes.atracao'),",
+        "detail": "core.migrations.0003_pontoturistico_atracoes",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.migrations.0004_pontoturistico_avaliacoes_pontoturistico_comentarios",
+        "description": "core.migrations.0004_pontoturistico_avaliacoes_pontoturistico_comentarios",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('comentarios', '0001_initial'),\n        ('avaliacoes', '0001_initial'),\n        ('core', '0003_pontoturistico_atracoes'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='pontoturistico',\n            name='avaliacoes',",
+        "detail": "core.migrations.0004_pontoturistico_avaliacoes_pontoturistico_comentarios",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.migrations.0005_pontoturistico_endereco",
+        "description": "core.migrations.0005_pontoturistico_endereco",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('enderecos', '0001_initial'),\n        ('core', '0004_pontoturistico_avaliacoes_pontoturistico_comentarios'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='pontoturistico',\n            name='endereco',\n            field=models.ForeignKey(default=1, on_delete=django.db.models.deletion.CASCADE, to='enderecos.endereco'),",
+        "detail": "core.migrations.0005_pontoturistico_endereco",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.migrations.0006_alter_pontoturistico_endereco",
+        "description": "core.migrations.0006_alter_pontoturistico_endereco",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('enderecos', '0001_initial'),\n        ('core', '0005_pontoturistico_endereco'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='pontoturistico',\n            name='endereco',\n            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.CASCADE, to='enderecos.endereco'),",
+        "detail": "core.migrations.0006_alter_pontoturistico_endereco",
+        "documentation": {}
+    },
+    {
+        "label": "CoreConfig",
+        "kind": 6,
+        "importPath": "core.apps",
+        "description": "core.apps",
+        "peekOfCode": "class CoreConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'core'",
+        "detail": "core.apps",
+        "documentation": {}
+    },
+    {
+        "label": "PontoTuristico",
+        "kind": 6,
+        "importPath": "core.models",
+        "description": "core.models",
+        "peekOfCode": "class PontoTuristico(models.Model):\n    nome = models.CharField(max_length=150)\n    descricao = models.TextField()\n    aprovado = models.BooleanField(default=False)\n    atracoes = models.ManyToManyField(Atracao)\n    comentarios = models.ManyToManyField(Comentario)\n    avaliacoes = models.ManyToManyField(Avaliacao)\n    endereco = models.ForeignKey(\n        Endereco, \n        on_delete=models.CASCADE, ",
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "EnderecoSerializer",
+        "kind": 6,
+        "importPath": "enderecos.api.serializers",
+        "description": "enderecos.api.serializers",
+        "peekOfCode": "class EnderecoSerializer(ModelSerializer):\n    class Meta:\n        model = Endereco \n        fields = ('linha1', \n                 'linha2', \n                 'cidade', \n                 'estado', \n                 'pais', \n                 'latitude', \n                 'longitude')",
+        "detail": "enderecos.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "EnderecoViewSet",
+        "kind": 6,
+        "importPath": "enderecos.api.viewsets",
+        "description": "enderecos.api.viewsets",
+        "peekOfCode": "class EnderecoViewSet(ModelViewSet):\n    queryset = Endereco.objects.all()\n    serializer_class = EnderecoSerializer",
+        "detail": "enderecos.api.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "enderecos.migrations.0001_initial",
+        "description": "enderecos.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Endereco',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('linha1', models.CharField(max_length=150)),",
+        "detail": "enderecos.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "EnderecosConfig",
+        "kind": 6,
+        "importPath": "enderecos.apps",
+        "description": "enderecos.apps",
+        "peekOfCode": "class EnderecosConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'enderecos'",
+        "detail": "enderecos.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Endereco",
+        "kind": 6,
+        "importPath": "enderecos.models",
+        "description": "enderecos.models",
+        "peekOfCode": "class Endereco(models.Model):\n    linha1 = models.CharField(max_length=150)\n    linha2 = models.CharField(max_length=150, null=True, blank=True)\n    cidade = models.CharField(max_length=100)\n    estado = models.CharField(max_length=50)\n    pais = models.CharField(max_length=70)\n    latitude = models.IntegerField(null=True, blank=True)\n    longitude = models.IntegerField(null=True, blank=True)\n    def __str__(self):\n        return self.linha1",
+        "detail": "enderecos.models",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "pontos_turisticos.settings",
+        "description": "pontos_turisticos.settings",
+        "peekOfCode": "BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/2.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = ')%vrw$hsur3z98y+byl1c2imr6%&nn3hkvee9gxq0m8f@y$75l'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "pontos_turisticos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "pontos_turisticos.settings",
+        "description": "pontos_turisticos.settings",
+        "peekOfCode": "SECRET_KEY = ')%vrw$hsur3z98y+byl1c2imr6%&nn3hkvee9gxq0m8f@y$75l'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "pontos_turisticos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "pontos_turisticos.settings",
+        "description": "pontos_turisticos.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "pontos_turisticos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "pontos_turisticos.settings",
+        "description": "pontos_turisticos.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "pontos_turisticos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "pontos_turisticos.settings",
+        "description": "pontos_turisticos.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'core',\n    'atracoes',",
+        "detail": "pontos_turisticos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "pontos_turisticos.settings",
+        "description": "pontos_turisticos.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'pontos_turisticos.urls'",
+        "detail": "pontos_turisticos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "pontos_turisticos.settings",
+        "description": "pontos_turisticos.settings",
+        "peekOfCode": "ROOT_URLCONF = 'pontos_turisticos.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "pontos_turisticos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "pontos_turisticos.settings",
+        "description": "pontos_turisticos.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "pontos_turisticos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "pontos_turisticos.settings",
+        "description": "pontos_turisticos.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'pontos_turisticos.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/2.0/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# segunda opção postgresql",
+        "detail": "pontos_turisticos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "pontos_turisticos.settings",
+        "description": "pontos_turisticos.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# segunda opção postgresql\n#DATABASES = {\n#    'default': {\n#        'ENGINE': 'django.db.backends.postgresql',",
+        "detail": "pontos_turisticos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#DATABASES",
+        "kind": 5,
+        "importPath": "pontos_turisticos.settings",
+        "description": "pontos_turisticos.settings",
+        "peekOfCode": "#DATABASES = {\n#    'default': {\n#        'ENGINE': 'django.db.backends.postgresql',\n#        'NAME': 'nome_do_banco_de_dados',\n#        'USER': 'nome_do_usuario',\n#        'PASSWORD': 'senha_do_usuario',\n#        'HOST': 'localhost',\n#        'PORT': '5432',\n#    }\n#}",
+        "detail": "pontos_turisticos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "pontos_turisticos.settings",
+        "description": "pontos_turisticos.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "pontos_turisticos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "pontos_turisticos.settings",
+        "description": "pontos_turisticos.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'pt-BR'\nTIME_ZONE = 'America/Sao_Paulo'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.0/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "pontos_turisticos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "pontos_turisticos.settings",
+        "description": "pontos_turisticos.settings",
+        "peekOfCode": "TIME_ZONE = 'America/Sao_Paulo'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.0/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "pontos_turisticos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "pontos_turisticos.settings",
+        "description": "pontos_turisticos.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.0/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "pontos_turisticos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "pontos_turisticos.settings",
+        "description": "pontos_turisticos.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.0/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "pontos_turisticos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "pontos_turisticos.settings",
+        "description": "pontos_turisticos.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.0/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "pontos_turisticos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "pontos_turisticos.settings",
+        "description": "pontos_turisticos.settings",
+        "peekOfCode": "STATIC_URL = '/static/'",
+        "detail": "pontos_turisticos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "pontos_turisticos.urls",
+        "description": "pontos_turisticos.urls",
+        "peekOfCode": "router = routers.DefaultRouter()\nrouter.register(r'pontoturistico', PontoTuristicoViewSet)\nrouter.register(r'atracoes', AtracaoViewSet)\nrouter.register(r'enderecos', EnderecoViewSet)\nrouter.register(r'comentarios', ComentarioViewSet)\nurlpatterns = [\n    path('', include(router.urls)),\n    path('admin/', admin.site.urls),\n]",
+        "detail": "pontos_turisticos.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "pontos_turisticos.urls",
+        "description": "pontos_turisticos.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', include(router.urls)),\n    path('admin/', admin.site.urls),\n]",
+        "detail": "pontos_turisticos.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "pontos_turisticos.wsgi",
+        "description": "pontos_turisticos.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "pontos_turisticos.wsgi",
+        "documentation": {}
+    }
+]
