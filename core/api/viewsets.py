@@ -29,8 +29,21 @@ class PontoTuristicoViewSet(ModelViewSet):
     def create(self, request, *args, **kwargs):
         return Response({'Hello':request.data['nome']})
     
-
+    # O método destroy em um ViewSet no Django tem a finalidade de lidar com a solicitação DELETE para excluir 
+    # um objeto existente. A ação destroy é responsável por excluir um objeto específico do modelo associado ao 
+    # ViewSet A finalidade do método destroy é encontrar e excluir um objeto existente no banco de dados com 
+    # base em um identificador único (geralmente o ID do objeto). Quando uma solicitação DELETE é feita para a 
+    # URL correspondente a esse ViewSet, o método destroy será chamado internamente.
     def destroy(self, request, *args, **kwargs):
         pass
     
+    # A finalidade do método retrieve é buscar um objeto específico no banco de dados com base em um identificador 
+    # único (geralmente o ID do objeto). Quando uma solicitação GET é feita para a URL correspondente a esse 
+    # ViewSet, o método retrieve será chamado internamente.    
+    def retrieve(self, request, *args, **kwargs):
+        pass
 
+    # O método update em um ViewSet no Django tem a finalidade de lidar com a solicitação PUT ou PATCH para atualizar 
+    # um objeto existente com base nos dados fornecidos pelo cliente.    
+    def update(self, request, *args, **kwargs):
+        pass       
