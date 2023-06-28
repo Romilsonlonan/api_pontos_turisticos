@@ -28,4 +28,9 @@ class PontoTuristicoViewSet(ModelViewSet):
     # Ele é responsável por validar e persistir os dados enviados pelo cliente no banco de dados.
     def create(self, request, *args, **kwargs):
         return Response({'Hello':request.data['nome']})
+    
+
+    def destroy(self, request, *args, **kwargs):
+        pass
+    
 
