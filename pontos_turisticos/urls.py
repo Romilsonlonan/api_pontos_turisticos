@@ -6,12 +6,15 @@ from django.urls import path
 from rest_framework import routers
 from core.api.viewsets import PontoTuristicoViewSet
 from atracoes.api.viewsets import AtracoesViewSet
+from enderecos.api.viewsets import EnderecoViewSet
 
 
-#Configurando as rotas
+#Configurando as rotas de acesso aos endpoints
 router = routers.DefaultRouter()
 router.register(r'pontoturistico', PontoTuristicoViewSet)
 router.register(r'atracoes', AtracoesViewSet)
+router.register(r'enderecos', EnderecoViewSet)
+
 
 
 urlpatterns = [
