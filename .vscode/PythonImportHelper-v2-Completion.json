@@ -838,7 +838,7 @@
         "kind": 6,
         "importPath": "core.api.serializers",
         "description": "core.api.serializers",
-        "peekOfCode": "class PontoTuristicoSerializer(ModelSerializer):\n    # Dentro da classe PontoTuristicoSerializer, há uma classe interna chamada Meta que \n    # define metadados para o serializer.\n    class Meta:\n        # O atributo model dentro da classe Meta especifica o modelo associado ao serializer, ou seja, \n        # a classe PontoTuristico é o modelo que será serializado por esse serializer\n        model = PontoTuristico\n        # O atributo fields dentro da classe Meta especifica os campos do modelo que serão incluídos na \n        # serialização. Nesse caso, apenas os campos 'id', 'nome' e 'descricao' serão incluídos.\n        fields = ('id', 'nome', 'descricao')",
+        "peekOfCode": "class PontoTuristicoSerializer(ModelSerializer):\n    # Dentro da classe PontoTuristicoSerializer, há uma classe interna chamada Meta que \n    # define metadados para o serializer.\n    class Meta:\n        # O atributo model dentro da classe Meta especifica o modelo associado ao serializer, ou seja, \n        # a classe PontoTuristico é o modelo que será serializado por esse serializer\n        model = PontoTuristico\n        # O atributo fields dentro da classe Meta especifica os campos do modelo que serão incluídos na \n        # serialização. Nesse caso, apenas os campos 'id', 'nome' e 'descricao' serão incluídos.\n        fields = ('id', 'nome', 'descricao', 'aprovado')",
         "detail": "core.api.serializers",
         "documentation": {}
     },
@@ -847,7 +847,7 @@
         "kind": 6,
         "importPath": "core.api.viewsets",
         "description": "core.api.viewsets",
-        "peekOfCode": "class PontoTuristicoViewSet(ModelViewSet):\n    #atribuindo a variável queryset todos os objetos da classe PontoTuristico presentes no banco de dados.\n    queryset = PontoTuristico.objects.all()\n    #Um serializer é uma classe no Django Rest Framework que define como os objetos devem ser convertidos \n    # em tipos de dados Python nativos, como dicionários, listas ou JSON, e vice-versa. \n    serializer_class = PontoTuristicoSerializer",
+        "peekOfCode": "class PontoTuristicoViewSet(ModelViewSet):\n    #atribuindo a variável queryset todos os objetos da classe PontoTuristico presentes no banco de dados.\n    #queryset = PontoTuristico.objects.all() # substituindo pelo método get_queryset\n    #Um serializer é uma classe no Django Rest Framework que define como os objetos devem ser convertidos \n    # em tipos de dados Python nativos, como dicionários, listas ou JSON, e vice-versa. \n    serializer_class = PontoTuristicoSerializer \n    def get_queryset(self):\n        return PontoTuristico.objects.filter(aprovado=True)",
         "detail": "core.api.viewsets",
         "documentation": {}
     },
@@ -1135,7 +1135,7 @@
         "kind": 5,
         "importPath": "pontos_turisticos.urls",
         "description": "pontos_turisticos.urls",
-        "peekOfCode": "router = routers.DefaultRouter()\nrouter.register(r'pontoturistico', PontoTuristicoViewSet)\nrouter.register(r'atracoes', AtracaoViewSet)\nrouter.register(r'enderecos', EnderecoViewSet)\nrouter.register(r'comentarios', ComentarioViewSet)\nrouter.register(r'avaliacoes', AvaliacaoViewSet)\nurlpatterns = [\n    path('', include(router.urls)),\n    path('admin/', admin.site.urls),\n]",
+        "peekOfCode": "router = routers.DefaultRouter()\nrouter.register(r'pontoturistico', PontoTuristicoViewSet, basename='PontoTuristico')\nrouter.register(r'atracoes', AtracaoViewSet)\nrouter.register(r'enderecos', EnderecoViewSet)\nrouter.register(r'comentarios', ComentarioViewSet)\nrouter.register(r'avaliacoes', AvaliacaoViewSet)\nurlpatterns = [\n    path('', include(router.urls)),\n    path('admin/', admin.site.urls),\n]",
         "detail": "pontos_turisticos.urls",
         "documentation": {}
     },

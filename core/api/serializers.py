@@ -16,4 +16,4 @@ class PontoTuristicoSerializer(ModelSerializer):
 
         # O atributo fields dentro da classe Meta especifica os campos do modelo que serão incluídos na 
         # serialização. Nesse caso, apenas os campos 'id', 'nome' e 'descricao' serão incluídos.
-        fields = ('id', 'nome', 'descricao')
+        fields = ('id', 'nome', 'descricao', 'aprovado')
