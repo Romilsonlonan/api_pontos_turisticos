@@ -577,6 +577,14 @@
         "documentation": {}
     },
     {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
         "label": "Endereco",
         "importPath": "enderecos.models",
         "description": "enderecos.models",
@@ -847,7 +855,7 @@
         "kind": 6,
         "importPath": "core.api.viewsets",
         "description": "core.api.viewsets",
-        "peekOfCode": "class PontoTuristicoViewSet(ModelViewSet):\n    #atribuindo a variável queryset todos os objetos da classe PontoTuristico presentes no banco de dados.\n    #queryset = PontoTuristico.objects.all() # substituindo pelo método get_queryset\n    #Um serializer é uma classe no Django Rest Framework que define como os objetos devem ser convertidos \n    # em tipos de dados Python nativos, como dicionários, listas ou JSON, e vice-versa. \n    serializer_class = PontoTuristicoSerializer \n    def get_queryset(self):\n        return PontoTuristico.objects.filter(aprovado=True)",
+        "peekOfCode": "class PontoTuristicoViewSet(ModelViewSet):\n    #atribuindo a variável queryset todos os objetos da classe PontoTuristico presentes no banco de dados.\n    #queryset = PontoTuristico.objects.all() # substituindo pelo método get_queryset\n    #Um serializer é uma classe no Django Rest Framework que define como os objetos devem ser convertidos \n    # em tipos de dados Python nativos, como dicionários, listas ou JSON, e vice-versa. \n    serializer_class = PontoTuristicoSerializer \n    #A finalidade principal do método get_queryset() é fornecer uma maneira de filtrar e ordenar os objetos \n    # que serão retornados em uma resposta da API. Ele define a lógica para recuperar os objetos que serão \n    # exibidos em uma determinada view.\n    def get_queryset(self):",
         "detail": "core.api.viewsets",
         "documentation": {}
     },
