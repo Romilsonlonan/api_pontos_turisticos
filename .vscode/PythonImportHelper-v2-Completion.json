@@ -32,11 +32,11 @@
         "documentation": {}
     },
     {
-        "label": "Atracao",
-        "importPath": "atracoes.models",
-        "description": "atracoes.models",
+        "label": "ModelSerializer",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
         "isExtraImport": true,
-        "detail": "atracoes.models",
+        "detail": "rest_framework.serializers",
         "documentation": {}
     },
     {
@@ -56,11 +56,11 @@
         "documentation": {}
     },
     {
-        "label": "ModelViewSet",
-        "importPath": "rest_framework.viewsets",
-        "description": "rest_framework.viewsets",
+        "label": "Atracao",
+        "importPath": "atracoes.models",
+        "description": "atracoes.models",
         "isExtraImport": true,
-        "detail": "rest_framework.viewsets",
+        "detail": "atracoes.models",
         "documentation": {}
     },
     {
@@ -88,6 +88,22 @@
         "documentation": {}
     },
     {
+        "label": "ModelViewSet",
+        "importPath": "rest_framework.viewsets",
+        "description": "rest_framework.viewsets",
+        "isExtraImport": true,
+        "detail": "rest_framework.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "ModelViewSet",
+        "importPath": "rest_framework.viewsets",
+        "description": "rest_framework.viewsets",
+        "isExtraImport": true,
+        "detail": "rest_framework.viewsets",
+        "documentation": {}
+    },
+    {
         "label": "migrations",
         "importPath": "django.db",
         "description": "django.db",
@@ -453,6 +469,30 @@
         "description": "django.shortcuts",
         "isExtraImport": true,
         "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "Avaliacao",
+        "importPath": "avaliacoes.models",
+        "description": "avaliacoes.models",
+        "isExtraImport": true,
+        "detail": "avaliacoes.models",
+        "documentation": {}
+    },
+    {
+        "label": "Avaliacao",
+        "importPath": "avaliacoes.models",
+        "description": "avaliacoes.models",
+        "isExtraImport": true,
+        "detail": "avaliacoes.models",
+        "documentation": {}
+    },
+    {
+        "label": "Avaliacao",
+        "importPath": "avaliacoes.models",
+        "description": "avaliacoes.models",
+        "isExtraImport": true,
+        "detail": "avaliacoes.models",
         "documentation": {}
     },
     {
@@ -534,14 +574,6 @@
         "description": "core.models",
         "isExtraImport": true,
         "detail": "core.models",
-        "documentation": {}
-    },
-    {
-        "label": "Avaliacao",
-        "importPath": "avaliacoes.models",
-        "description": "avaliacoes.models",
-        "isExtraImport": true,
-        "detail": "avaliacoes.models",
         "documentation": {}
     },
     {
@@ -642,6 +674,14 @@
         "documentation": {}
     },
     {
+        "label": "AvaliacaoViewSet",
+        "importPath": "avaliacoes.api.viewsets",
+        "description": "avaliacoes.api.viewsets",
+        "isExtraImport": true,
+        "detail": "avaliacoes.api.viewsets",
+        "documentation": {}
+    },
+    {
         "label": "get_wsgi_application",
         "importPath": "django.core.wsgi",
         "description": "django.core.wsgi",
@@ -701,6 +741,24 @@
         "description": "atracoes.models",
         "peekOfCode": "class Atracao(models.Model):\n    nome = models.CharField(max_length=150)\n    descricao = models.TextField()\n    horario_func = models.TextField()\n    idade_minima = models.IntegerField()\n    def __str__(self):\n        return self.nome",
         "detail": "atracoes.models",
+        "documentation": {}
+    },
+    {
+        "label": "AvaliacaoSerializer",
+        "kind": 6,
+        "importPath": "avaliacoes.api.serializers",
+        "description": "avaliacoes.api.serializers",
+        "peekOfCode": "class AvaliacaoSerializer(ModelSerializer):\n    class Meta:\n        model = Avaliacao\n        fields = ('id', 'user', 'comentario', 'nota', 'data')",
+        "detail": "avaliacoes.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "AvaliacaoViewSet",
+        "kind": 6,
+        "importPath": "avaliacoes.api.viewsets",
+        "description": "avaliacoes.api.viewsets",
+        "peekOfCode": "class AvaliacaoViewSet(ModelViewSet):\n    queryset = Avaliacao.objects.all()\n    serializer_class = AvaliacaoSerializer",
+        "detail": "avaliacoes.api.viewsets",
         "documentation": {}
     },
     {
@@ -1077,7 +1135,7 @@
         "kind": 5,
         "importPath": "pontos_turisticos.urls",
         "description": "pontos_turisticos.urls",
-        "peekOfCode": "router = routers.DefaultRouter()\nrouter.register(r'pontoturistico', PontoTuristicoViewSet)\nrouter.register(r'atracoes', AtracaoViewSet)\nrouter.register(r'enderecos', EnderecoViewSet)\nrouter.register(r'comentarios', ComentarioViewSet)\nurlpatterns = [\n    path('', include(router.urls)),\n    path('admin/', admin.site.urls),\n]",
+        "peekOfCode": "router = routers.DefaultRouter()\nrouter.register(r'pontoturistico', PontoTuristicoViewSet)\nrouter.register(r'atracoes', AtracaoViewSet)\nrouter.register(r'enderecos', EnderecoViewSet)\nrouter.register(r'comentarios', ComentarioViewSet)\nrouter.register(r'avaliacoes', AvaliacaoViewSet)\nurlpatterns = [\n    path('', include(router.urls)),\n    path('admin/', admin.site.urls),\n]",
         "detail": "pontos_turisticos.urls",
         "documentation": {}
     },
