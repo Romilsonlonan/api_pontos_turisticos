@@ -22,4 +22,10 @@ class PontoTuristicoViewSet(ModelViewSet):
     # Dentro do método list, o código retorna uma resposta HTTP contendo um dicionário serializado como JSON. 
     def list(self, request, *args, **kwargs):
         return Response({'teste':123})
+    
+    # Em resumo, o método create em um ViewSet no Django tem a finalidade de receber os dados enviados pelo 
+    # cliente em uma solicitação POST e criar um novo objeto com base nesses dados no modelo associado à API. 
+    # Ele é responsável por validar e persistir os dados enviados pelo cliente no banco de dados.
+    def create(self, request, *args, **kwargs):
+        return Response({'Hello':request.data['nome']})
 
